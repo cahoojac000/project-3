@@ -1,0 +1,26 @@
+# ninja log v5
+0	441	1663770164250916596	CMakeFiles/project_3.dir/CommentAutomaton.cpp.o	bfc7da88a874c5b6
+0	445	1663770164251892932	CMakeFiles/project_3.dir/CommaAutomaton.cpp.o	494e21257eece33e
+1	449	1663770164258134862	CMakeFiles/project_3.dir/LeftParenAutomaton.cpp.o	5f8b46dca349b183
+4	450	1663770164258250821	CMakeFiles/project_3.dir/PeriodAutomaton.cpp.o	70854a2248874a9e
+0	457	1663770164267585967	CMakeFiles/project_3.dir/AddAutomaton.cpp.o	a1d7378be3e9189
+0	458	1663770164266715382	CMakeFiles/project_3.dir/FactsAutomaton.cpp.o	709849ede7ce3cbf
+0	478	1663770164284057504	CMakeFiles/project_3.dir/ColonDashAutomaton.cpp.o	4d6688993400d341
+3	481	1663770164289678558	CMakeFiles/project_3.dir/MultiplyAutomaton.cpp.o	d5a33d2ede4152c6
+0	500	1663770164309448561	CMakeFiles/project_3.dir/ColonAutomaton.cpp.o	af6769d16f3d0cd
+1	513	1663770164319857751	CMakeFiles/project_3.dir/IdAutomaton.cpp.o	3ec376677f17784e
+1	533	1663770164341738342	CMakeFiles/project_3.dir/Lexer.cpp.o	38de87d3355e93f3
+2	657	1663770164464934369	CMakeFiles/project_3.dir/main.cpp.o	317bc25aab8f1616
+449	853	1663770164661446270	CMakeFiles/project_3.dir/RightParenAutomaton.cpp.o	2ed31024cb335378
+457	855	1663770164664589818	CMakeFiles/project_3.dir/SchemesAutomaton.cpp.o	ff494531c2e58a21
+450	865	1663770164675453426	CMakeFiles/project_3.dir/RulesAutomaton.cpp.o	c95823be566829ec
+533	874	1663770164684502196	CMakeFiles/project_3.dir/Parameter.cpp.o	2df39169277bd02
+458	878	1663770164688525414	CMakeFiles/project_3.dir/StringAutomaton.cpp.o	6c31f9ca1aa95fb7
+445	879	1663770164689625083	CMakeFiles/project_3.dir/QuestionMarkAutomaton.cpp.o	99a4f7dd9daf0a30
+444	899	1663770164709860128	CMakeFiles/project_3.dir/QueriesAutomaton.cpp.o	7488164a67b7487d
+478	914	1663770164724328869	CMakeFiles/project_3.dir/Token.cpp.o	94245d922030c2e9
+500	924	1663770164734400767	CMakeFiles/project_3.dir/Predicate.cpp.o	fa6ef0270f73b356
+513	946	1663770164756161357	CMakeFiles/project_3.dir/Rule.cpp.o	6fa5096581f3b36e
+481	980	1663770164790099517	CMakeFiles/project_3.dir/Parser.cpp.o	48b462ceaec3b7a6
+657	1068	1663770164878182382	CMakeFiles/project_3.dir/DatalogProgam.cpp.o	375b85968f8f0021
+1068	1111	1663770164923548401	project_3	ba21101db496844b

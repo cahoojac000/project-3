@@ -1,0 +1,3 @@
+/Users/booka66/CS236/project-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/booka66/CS236/project-3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/booka66/CS236/project-3/cmake-build-debug/CMakeFiles/project_3.dir
