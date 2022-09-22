@@ -10,7 +10,6 @@ Parser::~Parser() = default;
 DatalogProgram Parser::parse() {
     try {
         datalogProgram();
-        std::cout << "Success!" << std::endl;
         return program;
     }
     catch (Token& error) {

@@ -43,4 +43,4 @@ add_executable(project_3
         StringAutomaton.cpp
         StringAutomaton.h
         Token.cpp
-        Token.h Parser.cpp Parser.h DatalogProgram.h Predicate.cpp Predicate.h Rule.cpp Rule.h Parameter.cpp Parameter.h DatalogProgam.cpp)
+        Token.h Parser.cpp Parser.h DatalogProgram.h Predicate.cpp Predicate.h Rule.cpp Rule.h Parameter.cpp Parameter.h DatalogProgam.cpp Tuple.cpp Tuple.h Header.cpp Header.h Relation.cpp Relation.h Database.cpp Database.h Interpreter.cpp Interpreter.h)

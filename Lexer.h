@@ -13,7 +13,7 @@ private:
     std::vector<Token*> tokens;
     void CreateAutomata();
 public:
-    Lexer();
+    explicit Lexer(std::string inputString);
     ~Lexer();
     void Run(std::string& input);
     void printTokens();

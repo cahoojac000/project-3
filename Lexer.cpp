@@ -16,8 +16,9 @@
 #include "StringAutomaton.h"
 #include "CommentAutomaton.h"
 
-Lexer::Lexer() {
+Lexer::Lexer(std::string inputString) {
     CreateAutomata();
+    Run(inputString);
 }
 
 Lexer::~Lexer() {

@@ -16,6 +16,8 @@ public:
     void AddRule(const Predicate& head, std::vector<Predicate>& predicates);
     void AddQuery(const Predicate& predicate);
     std::set<std::string> CreateDomain();
+    std::vector<Predicate> getSchemes() { return schemes; }
+    std::vector<Predicate> getFacts() { return facts; }
 private:
     std::vector<Predicate> schemes;
     std::vector<Predicate> facts;

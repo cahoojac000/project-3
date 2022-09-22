@@ -1,8 +1,10 @@
+#include <string>
+#include <fstream>
 #include "Lexer.h"
 #include "Parser.h"
-#include <fstream>
-#include <string>
 #include "DatalogProgram.h"
+#include "Database.h"
+#include "Interpreter.h"
 
 int main(int argc, char** argv) {
     if (argc != 2) {
@@ -10,7 +12,6 @@ int main(int argc, char** argv) {
         return 1;
     }
 
-    // open file
     std::string fileName = argv[1];
     std::ifstream input(fileName);
     if (!input.is_open()) {
@@ -25,15 +26,16 @@ int main(int argc, char** argv) {
         }
     }
 
-    auto* lexer = new Lexer();
-    lexer->Run(inputString);
+    auto* lexer = new Lexer(inputString);
 
     auto* parser = new Parser(lexer->getTokens());
     DatalogProgram program = parser->parse();
-    if (!parser->Failed()) std::cout << program.toString();
+
+    auto* interpreter = new Interpreter(program);
 
     delete lexer;
-    //delete parser;
+    delete parser;
+    delete interpreter;
 
     return 0;
 }

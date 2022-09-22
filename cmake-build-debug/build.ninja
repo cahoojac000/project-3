@@ -78,8 +78,6 @@ build CMakeFiles/project_3.dir/AddAutomaton.cpp.o: CXX_COMPILER__project_3_Debug
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/ColonAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/ColonAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/ColonAutomaton.cpp.o.d
@@ -87,8 +85,6 @@ build CMakeFiles/project_3.dir/ColonAutomaton.cpp.o: CXX_COMPILER__project_3_Deb
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/ColonDashAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/ColonDashAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/ColonDashAutomaton.cpp.o.d
@@ -96,8 +92,6 @@ build CMakeFiles/project_3.dir/ColonDashAutomaton.cpp.o: CXX_COMPILER__project_3
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/CommaAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/CommaAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/CommaAutomaton.cpp.o.d
@@ -105,8 +99,6 @@ build CMakeFiles/project_3.dir/CommaAutomaton.cpp.o: CXX_COMPILER__project_3_Deb
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/CommentAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/CommentAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/CommentAutomaton.cpp.o.d
@@ -114,8 +106,6 @@ build CMakeFiles/project_3.dir/CommentAutomaton.cpp.o: CXX_COMPILER__project_3_D
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/FactsAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/FactsAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/FactsAutomaton.cpp.o.d
@@ -123,8 +113,6 @@ build CMakeFiles/project_3.dir/FactsAutomaton.cpp.o: CXX_COMPILER__project_3_Deb
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/IdAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/IdAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/IdAutomaton.cpp.o.d
@@ -132,8 +120,6 @@ build CMakeFiles/project_3.dir/IdAutomaton.cpp.o: CXX_COMPILER__project_3_Debug 
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/LeftParenAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/LeftParenAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/LeftParenAutomaton.cpp.o.d
@@ -141,8 +127,6 @@ build CMakeFiles/project_3.dir/LeftParenAutomaton.cpp.o: CXX_COMPILER__project_3
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/Lexer.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Lexer.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/Lexer.cpp.o.d
@@ -150,8 +134,6 @@ build CMakeFiles/project_3.dir/Lexer.cpp.o: CXX_COMPILER__project_3_Debug /Users
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/main.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/main.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/main.cpp.o.d
@@ -159,8 +141,6 @@ build CMakeFiles/project_3.dir/main.cpp.o: CXX_COMPILER__project_3_Debug /Users/
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/MultiplyAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/MultiplyAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/MultiplyAutomaton.cpp.o.d
@@ -168,8 +148,6 @@ build CMakeFiles/project_3.dir/MultiplyAutomaton.cpp.o: CXX_COMPILER__project_3_
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/PeriodAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/PeriodAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/PeriodAutomaton.cpp.o.d
@@ -177,8 +155,6 @@ build CMakeFiles/project_3.dir/PeriodAutomaton.cpp.o: CXX_COMPILER__project_3_De
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/QueriesAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/QueriesAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/QueriesAutomaton.cpp.o.d
@@ -186,8 +162,6 @@ build CMakeFiles/project_3.dir/QueriesAutomaton.cpp.o: CXX_COMPILER__project_3_D
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/QuestionMarkAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/QuestionMarkAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/QuestionMarkAutomaton.cpp.o.d
@@ -195,8 +169,6 @@ build CMakeFiles/project_3.dir/QuestionMarkAutomaton.cpp.o: CXX_COMPILER__projec
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/RightParenAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/RightParenAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/RightParenAutomaton.cpp.o.d
@@ -204,8 +176,6 @@ build CMakeFiles/project_3.dir/RightParenAutomaton.cpp.o: CXX_COMPILER__project_
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/RulesAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/RulesAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/RulesAutomaton.cpp.o.d
@@ -213,8 +183,6 @@ build CMakeFiles/project_3.dir/RulesAutomaton.cpp.o: CXX_COMPILER__project_3_Deb
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/SchemesAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/SchemesAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/SchemesAutomaton.cpp.o.d
@@ -222,8 +190,6 @@ build CMakeFiles/project_3.dir/SchemesAutomaton.cpp.o: CXX_COMPILER__project_3_D
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/StringAutomaton.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/StringAutomaton.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/StringAutomaton.cpp.o.d
@@ -231,8 +197,6 @@ build CMakeFiles/project_3.dir/StringAutomaton.cpp.o: CXX_COMPILER__project_3_De
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/Token.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Token.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/Token.cpp.o.d
@@ -240,8 +204,6 @@ build CMakeFiles/project_3.dir/Token.cpp.o: CXX_COMPILER__project_3_Debug /Users
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/Parser.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Parser.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/Parser.cpp.o.d
@@ -249,8 +211,6 @@ build CMakeFiles/project_3.dir/Parser.cpp.o: CXX_COMPILER__project_3_Debug /User
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/Predicate.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Predicate.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/Predicate.cpp.o.d
@@ -258,8 +218,6 @@ build CMakeFiles/project_3.dir/Predicate.cpp.o: CXX_COMPILER__project_3_Debug /U
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/Rule.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Rule.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/Rule.cpp.o.d
@@ -267,8 +225,6 @@ build CMakeFiles/project_3.dir/Rule.cpp.o: CXX_COMPILER__project_3_Debug /Users/
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/Parameter.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Parameter.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/Parameter.cpp.o.d
@@ -276,8 +232,6 @@ build CMakeFiles/project_3.dir/Parameter.cpp.o: CXX_COMPILER__project_3_Debug /U
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
 
 build CMakeFiles/project_3.dir/DatalogProgam.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/DatalogProgam.cpp || cmake_object_order_depends_target_project_3
   DEP_FILE = CMakeFiles/project_3.dir/DatalogProgam.cpp.o.d
@@ -285,8 +239,41 @@ build CMakeFiles/project_3.dir/DatalogProgam.cpp.o: CXX_COMPILER__project_3_Debu
   INCLUDES = -I/Users/booka66/CS236/project-3/.
   OBJECT_DIR = CMakeFiles/project_3.dir
   OBJECT_FILE_DIR = CMakeFiles/project_3.dir
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
-  TARGET_PDB = project_3.pdb
+
+build CMakeFiles/project_3.dir/Tuple.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Tuple.cpp || cmake_object_order_depends_target_project_3
+  DEP_FILE = CMakeFiles/project_3.dir/Tuple.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
+  INCLUDES = -I/Users/booka66/CS236/project-3/.
+  OBJECT_DIR = CMakeFiles/project_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/project_3.dir
+
+build CMakeFiles/project_3.dir/Header.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Header.cpp || cmake_object_order_depends_target_project_3
+  DEP_FILE = CMakeFiles/project_3.dir/Header.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
+  INCLUDES = -I/Users/booka66/CS236/project-3/.
+  OBJECT_DIR = CMakeFiles/project_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/project_3.dir
+
+build CMakeFiles/project_3.dir/Relation.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Relation.cpp || cmake_object_order_depends_target_project_3
+  DEP_FILE = CMakeFiles/project_3.dir/Relation.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
+  INCLUDES = -I/Users/booka66/CS236/project-3/.
+  OBJECT_DIR = CMakeFiles/project_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/project_3.dir
+
+build CMakeFiles/project_3.dir/Database.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Database.cpp || cmake_object_order_depends_target_project_3
+  DEP_FILE = CMakeFiles/project_3.dir/Database.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
+  INCLUDES = -I/Users/booka66/CS236/project-3/.
+  OBJECT_DIR = CMakeFiles/project_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/project_3.dir
+
+build CMakeFiles/project_3.dir/Interpreter.cpp.o: CXX_COMPILER__project_3_Debug /Users/booka66/CS236/project-3/Interpreter.cpp || cmake_object_order_depends_target_project_3
+  DEP_FILE = CMakeFiles/project_3.dir/Interpreter.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
+  INCLUDES = -I/Users/booka66/CS236/project-3/.
+  OBJECT_DIR = CMakeFiles/project_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/project_3.dir
 
 
 # =============================================================================
@@ -296,14 +283,13 @@ build CMakeFiles/project_3.dir/DatalogProgam.cpp.o: CXX_COMPILER__project_3_Debu
 #############################################
 # Link the executable project_3
 
-build project_3: CXX_EXECUTABLE_LINKER__project_3_Debug CMakeFiles/project_3.dir/AddAutomaton.cpp.o CMakeFiles/project_3.dir/ColonAutomaton.cpp.o CMakeFiles/project_3.dir/ColonDashAutomaton.cpp.o CMakeFiles/project_3.dir/CommaAutomaton.cpp.o CMakeFiles/project_3.dir/CommentAutomaton.cpp.o CMakeFiles/project_3.dir/FactsAutomaton.cpp.o CMakeFiles/project_3.dir/IdAutomaton.cpp.o CMakeFiles/project_3.dir/LeftParenAutomaton.cpp.o CMakeFiles/project_3.dir/Lexer.cpp.o CMakeFiles/project_3.dir/main.cpp.o CMakeFiles/project_3.dir/MultiplyAutomaton.cpp.o CMakeFiles/project_3.dir/PeriodAutomaton.cpp.o CMakeFiles/project_3.dir/QueriesAutomaton.cpp.o CMakeFiles/project_3.dir/QuestionMarkAutomaton.cpp.o CMakeFiles/project_3.dir/RightParenAutomaton.cpp.o CMakeFiles/project_3.dir/RulesAutomaton.cpp.o CMakeFiles/project_3.dir/SchemesAutomaton.cpp.o CMakeFiles/project_3.dir/StringAutomaton.cpp.o CMakeFiles/project_3.dir/Token.cpp.o CMakeFiles/project_3.dir/Parser.cpp.o CMakeFiles/project_3.dir/Predicate.cpp.o CMakeFiles/project_3.dir/Rule.cpp.o CMakeFiles/project_3.dir/Parameter.cpp.o CMakeFiles/project_3.dir/DatalogProgam.cpp.o
+build project_3: CXX_EXECUTABLE_LINKER__project_3_Debug CMakeFiles/project_3.dir/AddAutomaton.cpp.o CMakeFiles/project_3.dir/ColonAutomaton.cpp.o CMakeFiles/project_3.dir/ColonDashAutomaton.cpp.o CMakeFiles/project_3.dir/CommaAutomaton.cpp.o CMakeFiles/project_3.dir/CommentAutomaton.cpp.o CMakeFiles/project_3.dir/FactsAutomaton.cpp.o CMakeFiles/project_3.dir/IdAutomaton.cpp.o CMakeFiles/project_3.dir/LeftParenAutomaton.cpp.o CMakeFiles/project_3.dir/Lexer.cpp.o CMakeFiles/project_3.dir/main.cpp.o CMakeFiles/project_3.dir/MultiplyAutomaton.cpp.o CMakeFiles/project_3.dir/PeriodAutomaton.cpp.o CMakeFiles/project_3.dir/QueriesAutomaton.cpp.o CMakeFiles/project_3.dir/QuestionMarkAutomaton.cpp.o CMakeFiles/project_3.dir/RightParenAutomaton.cpp.o CMakeFiles/project_3.dir/RulesAutomaton.cpp.o CMakeFiles/project_3.dir/SchemesAutomaton.cpp.o CMakeFiles/project_3.dir/StringAutomaton.cpp.o CMakeFiles/project_3.dir/Token.cpp.o CMakeFiles/project_3.dir/Parser.cpp.o CMakeFiles/project_3.dir/Predicate.cpp.o CMakeFiles/project_3.dir/Rule.cpp.o CMakeFiles/project_3.dir/Parameter.cpp.o CMakeFiles/project_3.dir/DatalogProgam.cpp.o CMakeFiles/project_3.dir/Tuple.cpp.o CMakeFiles/project_3.dir/Header.cpp.o CMakeFiles/project_3.dir/Relation.cpp.o CMakeFiles/project_3.dir/Database.cpp.o CMakeFiles/project_3.dir/Interpreter.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/project_3.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/project_3.dir/
   TARGET_FILE = project_3
-  TARGET_PDB = project_3.pdb
+  TARGET_PDB = project_3.dbg
 
 # =============================================================================
 # Target aliases.
@@ -325,14 +311,14 @@ build all: phony project_3
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ROCMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/ROCMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake: phony
+build ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake: phony
 
 
 #############################################
