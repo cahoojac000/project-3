@@ -13,9 +13,9 @@ class Predicate {
 public:
     Predicate(std::string id, std::vector<Parameter> parameters);
     Predicate();
-    std::vector<Parameter> getParams() { return parameters; }
+    std::vector<Parameter> getParams() const { return parameters; }
     std::string toString();
-    std::string getId() { return id; }
+    std::string getId () const { return id; }
 private:
     std::string id;
     std::vector<Parameter> parameters;

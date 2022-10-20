@@ -11,7 +11,7 @@ public:
     ~Tuple() = default;
 
     bool operator< (const Tuple& rhs) const { return values < rhs.values; }
-    std::vector<std::string> getValues() { return values; }
+    std::vector<std::string> getValues() const { return values; }
 private:
     std::vector<std::string> values;
 };

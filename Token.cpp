@@ -3,10 +3,8 @@
 #include <utility>
 
 Token::Token(TokenType type, std::string description, int line) {
-    // TODO: initialize all member variables
-    // TODO: delete test values
     this->type = type;
-    this->description = std::move(description); // TODO: Maybe remove move if bugs occur
+    this->description = std::move(description);
     this->line = line;
 }
 

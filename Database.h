@@ -12,6 +12,8 @@ public:
 
     void addScheme(const std::string& name, const std::vector<std::string>& header);
     void addFacts(const std::string& name, const std::vector<std::string>& values);
+    Relation* getRelation(std::string id) { return &database.at(id); }
+    std::map<std::string, Relation> getDatabase() const { return database; }
 private:
     std::map<std::string, Relation> database;
 };

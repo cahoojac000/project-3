@@ -13,6 +13,9 @@ public:
     explicit Interpreter(const DatalogProgram& program);
     ~Interpreter() = default;
     void createDatabase();
+    void addSchemesToDatabase();
+    void addFactsToDatabase();
+    Relation* evaluatePredicate(const Predicate& predicate);
 private:
     DatalogProgram program;
     Database database;

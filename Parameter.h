@@ -12,8 +12,10 @@ public:
     Parameter(const std::string& text);
     ~Parameter();
     std::string toString() { return text; }
+    bool getIsConstant() { return isConstant; }
 private:
     std::string text;
+    bool isConstant = false;
 };
 
 

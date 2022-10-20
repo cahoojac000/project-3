@@ -18,6 +18,7 @@ public:
     std::set<std::string> CreateDomain();
     std::vector<Predicate> getSchemes() { return schemes; }
     std::vector<Predicate> getFacts() { return facts; }
+    std::vector<Predicate> getQueries() { return queries; }
 private:
     std::vector<Predicate> schemes;
     std::vector<Predicate> facts;

@@ -1,11 +1,9 @@
 #ifndef PROJECT_2_PARSER_H
 #define PROJECT_2_PARSER_H
 
-#include "Token.h"
-#include "Lexer.h"
 #include <iostream>
+#include "Token.h"
 #include "DatalogProgram.h"
-#include "Parameter.h"
 
 class Parser {
 public:

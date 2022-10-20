@@ -48,8 +48,8 @@ std::string DatalogProgram::toString() {
 std::set<std::string> DatalogProgram::CreateDomain() {
     std::set<std::string> domain;
     for (auto & fact : facts) {
-        for (long unsigned int j = 0; j < fact.getParams().size(); j++) {
-            domain.insert(fact.getParams().at(j).toString());
+        for (long unsigned int i = 0; i < fact.getParams().size(); i++) {
+            domain.insert(fact.getParams().at(i).toString());
         }
     }
     return domain;

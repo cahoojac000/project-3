@@ -9,7 +9,7 @@ public:
     Header() = default;
     explicit Header(const std::vector<std::string>& header) { this->attributes = header; }
     ~Header() = default;
-    std::vector<std::string> attributes; //TODO: Does this need to be private?
+    std::vector<std::string> attributes;
 };
 
 
