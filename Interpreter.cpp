@@ -59,8 +59,8 @@ Relation* Interpreter::evaluatePredicate(const Predicate& predicate) {
     }
     if (!relation.columnMap.empty()) relation = relation.project(relation.columnVector);
     std::vector<std::string> newHeader;
-    for (auto i = 0; i < relation.columnVector.size(); i++) {
-        newHeader.push_back(predicate.getParams().at(relation.columnVector.at(i)).toString());
+    for (int i : relation.columnVector) {
+        newHeader.push_back(predicate.getParams().at(i).toString());
     }
     relation = relation.rename(newHeader);
     auto* newRelation = new Relation(relation);

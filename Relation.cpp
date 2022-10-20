@@ -39,13 +39,13 @@ Relation Relation::select(const int &index1, const int &index2) {
 
 Relation Relation::project(const std::vector<int>& indices) {
     Relation newRelation(name, columnMap, columnVector);
-    for (auto i = 0; i < columnVector.size(); i++) {
-        newRelation.header.attributes.push_back(header.attributes.at(columnVector.at(i)));
+    for (int i : columnVector) {
+        newRelation.header.attributes.push_back(header.attributes.at(i));
     }
     for (auto& tuple : collection) {
         std::vector<std::string> values;
-        for (int i = 0; i < indices.size(); i++) {
-            values.push_back(tuple.getValues().at(indices.at(i)));
+        for (int index : indices) {
+            values.push_back(tuple.getValues().at(index));
         }
         newRelation.addTuple(values);
     }
